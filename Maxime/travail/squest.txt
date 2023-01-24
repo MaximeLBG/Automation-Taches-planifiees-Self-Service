@@ -1,0 +1,9 @@
+Squest est un logiciel libre (APLv2) permettant d'exposer de l'automatisation, basée sur Ansible Tower/AWX, en tant que service (mode SaaS).
+
+Ansible Tower et sa version libre AWX sont une console centrale de gestion des tâches d'automatisation, pour Ansible qui sert à automatiser la gestion et la configuration d'ordinateurs. Ces outils sont notamment utilisés par des profils ingénierie de la fiabilité des sites (SRE Site Reliability Engineering) ou DevOps.
+
+De plus, il utilise des référentiels de sécurité pour identifier les vulnérabilités et des scripts pour corriger ces vulnérabilités. Il permet donc d'automatiser la détection et la correction des vulnérabilités de sécurité sur les systèmes HP-UX, ce qui peut réduire considérablement le temps et les efforts nécessaires pour garantir la sécurité de ces systèmes.
+
+En outre, SQuest peut également être utilisé pour configurer les paramètres de sécurité pour les systèmes HP-UX, tels que les paramètres de pare-feu et les stratégies de mot de passe. Il peut donc automatiser la configuration de ces paramètres de sécurité, ce qui peut également réduire les erreurs de configuration et les risques de sécurité.
+
+Enfin, SQuest offre des fonctionnalités de suivi et de reporting pour vous permettre de suivre l'état de sécurité de vos systèmes HP-UX, il peut donc automatiser la gestion des tâches de suivi et de reporting de sécurité, ce qui permet de gagner en efficacité et en temps.
