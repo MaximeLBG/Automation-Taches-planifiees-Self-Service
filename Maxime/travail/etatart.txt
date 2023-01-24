@@ -1,8 +1,10 @@
-L'état de l'art actuel pour la gestion d'infrastructures hétérogènes comprend l'utilisation de solutions de gestion de configuration telles que Ansible, Puppet et Chef pour automatiser les tâches d'infrastructure. Ces outils permettent de définir les configurations souhaitées pour les différentes infrastructures, qu'elles soient dans le cloud, sur site ou basées sur des conteneurs ou des machines virtuelles.
+L'état de l'art actuel pour la gestion d'infrastructures hétérogènes comprend l'utilisation de solutions de gestion de configuration telles que Ansible, Puppet et Chef pour automatiser les tâches d'infrastructure. 
+Ces outils permettent de définir les configurations souhaitées pour les différentes infrastructures, qu'elles soient dans le cloud, sur site ou basées sur des conteneurs ou des machines virtuelles.
 
 Il existe également des outils de surveillance tels que Prometheus, Nagios et Zabbix qui permettent de surveiller efficacement l'exécution des tâches planifiées et l'état des systèmes dans ces environnements hétérogènes.
 
-En ce qui concerne les infrastructures élastiques, Kubernetes est devenu un standard de facto pour la gestion des clusters de conteneurs. Il permet de déployer, de scaler et de surveiller efficacement les applications dans des environnements cloud et sur site.
+En ce qui concerne les infrastructures élastiques, Kubernetes est devenu un standard de facto pour la gestion des clusters de conteneurs. 
+Il permet de déployer, de scaler et de surveiller efficacement les applications dans des environnements cloud et sur site.
 
 Les technologies de CI/CD (intégration et déploiement continu) telles que Jenkins, Travis CI et GitLab CI/CD permettent également d'automatiser le processus de déploiement des applications, en permettant aux équipes de développement de déployer rapidement et en toute sécurité des mises à jour de code.
 
