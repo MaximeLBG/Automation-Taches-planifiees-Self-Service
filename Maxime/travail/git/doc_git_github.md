@@ -2,7 +2,7 @@
 
 #### Installer git : 
     # apt install git
-- Choisir un **dossier** pour y mettre et recevoir le travail
+- Choisir un **dossier** pour y mettre et recevoir le travail par exemple : **~/projet/**
 #### Une fois dans ce **dossier** faire : 
 	# git init
 	# git config user.name "Prénom NOM"
@@ -23,6 +23,9 @@ est en utilisant un **token (https)** d'identification.
 ## Si vous choisissez le **SSH** :
 - Copier le contenu du fichier **~/.ssh/id_rsa.pub** dans GitHub
 		**Settings** --> **SSH and GPG keys** --> **New SSH key**.
+- Si vous n'avez pas de fichier **~/.ssh/id_rsa.pub** faire dans un terminal :
+####
+		# ssh-keygen
 
 #### Ensuite, il faudra retourner dans le **dossier** de travail (à l'endroit des commandes précédentes) est y faire :
 	# git remote add origin git@github.com:MaximeLBG/Automation-Taches-planifiees-Self-Service.git
