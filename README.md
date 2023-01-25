@@ -1,7 +1,6 @@
 # <center> Automation, Tâches planifiées, Self Service </center>
 
 ## Contexte et problématique
----
 <p> <justify> Dans les infrastructures de plus en plus hétérogènes, Cloud, On-premise, con-
 teneurs, machines virtuelles, SaaS, etc, il devient de plus en plus difficile de
 suivre notamment l’exécution des tâches planifiées au sein de celle-ci.
@@ -15,7 +14,6 @@ paraît intéressant de pouvoir déléguer certaines tâches directement aux uti
 
 
 ## Objectif du projet
----
 L’objectif du projet est de proposer une solution permettant de gérer les trois
 aspects qui sont : ***Automatisation*** des tâches d’exploitation ***Gestion*** des
 tâches planifiées  ***Self-Service*** pour les utilisateurs, leur permettant de réaliser
@@ -32,12 +30,10 @@ des produits suivants : **Ansible** (https://github.com/ansible/ansible) , **AWX
 
 
 ## Collaborateur
----
-- Rayan TAMGLIT
 - Tolga BAYRAMOGLU
 - Anthony CANSELIET
 - Maxime LEBEGUE
+- Rayan TAMGLIT
 
 ## Tuteur
----
 - Stéphane CASSET
